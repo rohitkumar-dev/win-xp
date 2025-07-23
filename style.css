@@ -56,6 +56,7 @@ body{
 .body-right{
     color: #303030;
     font-size: 14px;
+  margin: 10px 10px auto auto;
 }
 .body-btn{
     margin-top: 25px;
